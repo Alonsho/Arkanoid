@@ -1,0 +1,120 @@
+
+
+
+# Level 1
+# jellyfish
+
+
+START_LEVEL
+level_name:Jello in the Mello
+ball_velocities:45,5.50 -45,5.50 -30,5.50 30,5.50 45,5.50 -45,5.50 -30,5.50 30,5.50
+background:image(background_images/underwater.jpg)
+paddle_speed:7
+paddle_width:160
+block_definitions:definitions/zoo_block_definitions.txt
+blocks_start_x:150
+blocks_start_y:80
+row_height:30
+num_blocks:148
+START_BLOCKS
+^^^^cccccccccc^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^cccccccccccccc^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ccccbbccccccbbcccc^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+cccccccccccccccccc^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+cccccccccccccccccc^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^cccccccccccccc^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^cc^^cc^^cc^^cc^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+cccc^^cc^^cc^^cc^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+cc^^cc^^cc^^cc^^cc^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+cc^^cc^^cc^^cc^^cc^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^cc^^cccccc^^cc^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^cc^^cc^^cc^^cc^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+END_BLOCKS
+END_LEVEL
+
+# Level 2
+# snail
+
+
+START_LEVEL
+level_name:The snail trail
+ball_velocities:45,5.50 -45,5.50 -30,5.50 30,5.50 45,5.50 -45,5.50 -30,5.50 30,5.50
+background:image(background_images/path.jpg)
+paddle_speed:7
+paddle_width:160
+block_definitions:definitions/zoo_block_definitions.txt
+blocks_start_x:150
+blocks_start_y:80
+row_height:20
+num_blocks:150
+START_BLOCKS
+%%%%%%ggggggg%%%%%o%%%%o
+%%%%%g%%%%%%%g%%%%%o%%%o
+%%%%g%%ggggg%%g%%%%o%%%o
+%%%g%%g%%%%%g%%g%%%o%%o
+%%%g%g%%ggg%%g%g%%%%oo
+%%%g%g%g%%%g%g%g%%ooooo
+%%%g%g%g%g%g%g%g%o%%%%%o
+%%%g%g%g%%g%%g%g%o%%%o%o
+%%%g%g%%g%%%g%%g%o%o%%%o
+%%%g%%g%%ggg%%g%%o%%o%%o
+%%%%g%%g%%%%%g%%o%%%%o%o
+%%%%%g%%ggggg%%o%%%%%%o
+%%%%o%g%%%%%%%o%%%%%%o
+%%%o%%%ggggggg%%%%%%o
+%%o%%%%%%%%%%%%%%%%o
+%o%%%%%%%%%%%%%%%%o
+oooooooooooooooooo
+oooooooooooooooooo
+END_BLOCKS
+END_LEVEL
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Level 3
+# fox
+
+START_LEVEL
+level_name:Foxy wild
+ball_velocities:45,5.50 -45,5.50 -30,5.50 30,5.50 45,5.50 -45,5.50 -30,5.50 30,5.50
+background:image(background_images/desert.jpg)
+paddle_speed:7
+paddle_width:160
+block_definitions:definitions/zoo_block_definitions.txt
+blocks_start_x:150
+blocks_start_y:80
+row_height:20
+num_blocks:127
+START_BLOCKS
+_______$$____$$
+______$w$__$w$
+_____$ww$$ww$____$$
+______$b$$b$$____$$$
+_______$$$$$________$m$$
+________$$$__________$mm$
+________$$$$__________$$$
+________$$$$$$$______$$$
+________$$$$$$$$____$$$
+_________$$$$$$$____$$
+__________$$$$$$___$$
+__________$$$$$_$__$$
+__________$$$$_$$$_$$
+__________$$$_$$$$$_$$
+_________m$m__m$$m_m$
+
+END_BLOCKS
+END_LEVEL
+
+
+

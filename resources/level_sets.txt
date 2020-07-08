@@ -1,0 +1,6 @@
+e:Play easy
+definitions/easy_level_definitions.txt
+h:Play hard
+definitions/hard_level_definitions.txt
+z: go to the zoo
+definitions/zoo_level_definitions.txt
